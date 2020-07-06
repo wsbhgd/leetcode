@@ -1,8 +1,5 @@
 package leetcode.array;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * @author mncool
  */
@@ -24,7 +21,7 @@ public class HeightChecker {
         int count = 0;
         int start = 0;
         for (int i = 0; i < sortedElements.length; i++) {
-            while (sortedElements[i] -- > 0){
+            while (sortedElements[i]-- > 0) {
                 if (heights[start] != i) {
                     count++;
                 }
