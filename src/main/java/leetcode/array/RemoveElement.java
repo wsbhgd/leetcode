@@ -2,6 +2,7 @@ package leetcode.array;
 
 /**
  * leetcode 27
+ *
  * @author mncool
  */
 public class RemoveElement {

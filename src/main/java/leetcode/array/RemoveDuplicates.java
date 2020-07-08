@@ -2,6 +2,7 @@ package leetcode.array;
 
 /**
  * leetcode 26
+ *
  * @author mncool
  */
 public class RemoveDuplicates {
