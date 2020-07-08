@@ -1,6 +1,8 @@
 package leetcode.array;
 
 /**
+ * leetcode 674
+ *
  * @author mncool
  */
 public class FindLengthOfLCIS {
