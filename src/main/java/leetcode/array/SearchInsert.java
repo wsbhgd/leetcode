@@ -1,6 +1,8 @@
 package leetcode.array;
 
 /**
+ * leetcode 35
+ *
  * @author mncool
  */
 public class SearchInsert {
